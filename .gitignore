@@ -1,0 +1,9 @@
+*.pth
+*.pt
+plant_diseases/
+new-plant-diseases-dataset.zip
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+.DS_Store
+kaggle.json
